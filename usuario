@@ -1,0 +1,20 @@
+#NOME DO USUARIO
+
+nome = input("Digite seu nome: ")
+
+print("Ola,",nome,"Seja Bem Vindo ao curso <Ford Enter>")
+
+import time
+print("Analisando Perfil do Usuario")
+time.sleep(2)
+
+#Avalição do Usuario
+import time
+avaliação = input("Escreva oque achou da linguagem Python e sua historia: ")
+
+print("Botando sua avaliação no sistema da <Ford Enter>")
+time.sleep(4)
+
+print("Ola,<",nome,">  Obrigado pela sua Avaliação")
+
+
